@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 de Prep-Course de Henry
+Este proyecto es una prueba  de como clonar  desde git al escritorio local
+
+Gabriel Rosales
